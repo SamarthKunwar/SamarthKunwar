@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samarth (Sammy) 👋</h1>
+<h1 align="center">Hi, I'm Samarth  👋</h1>
 
 <p align="center">
   B.Sc. Angewandte Informatik student at Hochschule Kaiserslautern, building backend systems, cloud infra, and RAG/LLM applications.
